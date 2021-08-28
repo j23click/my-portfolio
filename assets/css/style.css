@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for header*/
+body {
+    color: navy;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: lavender;   
+}
+
+header {
+    background-color: rgb(18, 18, 59);
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 45px;
+    display: inline;
+    margin: 0;
+    background-color: lightblue;
+    display: inline;
+    padding-left: 50px;
+}
+
+header h1 a {
+    color: rgb(18, 18, 59);
+}
+
+header a {
+    color: lightblue;
+    text-decoration: none;
+}
+
+header nav {
+    float: right;
+    margin: 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 25px;
+}
