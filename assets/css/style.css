@@ -56,11 +56,17 @@ header nav ul li a {
     height: 300px;
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 .hero h2 {
     background-color: lightblue;
     position: absolute;
+    padding: 20px;
+    width: 500px;
+    bottom: 0px;
+    right: 0px;
+    font-size: 45px;
 }
 
 /* Section styles */
