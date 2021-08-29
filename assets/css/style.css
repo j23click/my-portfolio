@@ -13,10 +13,13 @@ body {
 
 header {
     background-color: rgb(18, 18, 59);
+<<<<<<< HEAD
     padding: 20px 20px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+=======
+>>>>>>> main
 }
 
 header h1 {
@@ -25,6 +28,10 @@ header h1 {
     display: inline;
     margin: 0;
     background-color: lightblue;
+<<<<<<< HEAD
+=======
+    display: inline;
+>>>>>>> main
     padding-left: 50px;
 }
 
@@ -38,6 +45,7 @@ header a {
 }
 
 header nav {
+<<<<<<< HEAD
     margin: 7px 0;
 }
 
@@ -47,18 +55,34 @@ header nav ul {
     justify-content: space-between;
     align-items: center;
     list-style: none;
+=======
+    float: right;
+    margin: 0;
+}
+
+header nav ul li {
+    display: inline;
+>>>>>>> main
 }
 
 header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
+<<<<<<< HEAD
     font-size: 1.55vw;
+=======
+    font-size: 25px;
+>>>>>>> main
 }
 
 /* End header styles */
 
 .hero {
+<<<<<<< HEAD
     background-image: url("../images/portforlio\ hero\ image.jpg");
+=======
+    background-image: url("../images/portforlio/ hero/ image.jpg");
+>>>>>>> main
     height: 300px;
     background-size: cover;
     background-position: center;
@@ -79,13 +103,17 @@ header nav ul li a {
 
 section h2 {
     color:rgb(18, 18, 59);
+<<<<<<< HEAD
     font-size: 40px;
+=======
+>>>>>>> main
 }
 
 
 /* Footer Styles */
 footer {
     color:rgb(18, 18, 59);
+<<<<<<< HEAD
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -93,6 +121,12 @@ footer {
 
 footer h2 {
     font-size: 40px;
+=======
+}
+
+footer h2 {
+    font-size: 45px;
+>>>>>>> main
 }
 
 footer nav {
@@ -101,10 +135,19 @@ footer nav {
 }
 
 footer ul li {
+<<<<<<< HEAD
     text-align: center;
 }
 
 footer nav ul li {
+=======
+    display: inline;
+    text-align: center;
+    font-size: 30px;
+}
+
+footer nav ul li a {
+>>>>>>> main
     margin: 0 30px;
     font-weight: lighter;
     font-size: 25px;
