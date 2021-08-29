@@ -13,6 +13,7 @@ body {
 
 header {
     background-color: rgb(18, 18, 59);
+    padding: 20px 20px;
 }
 
 header h1 {
@@ -73,6 +74,7 @@ header nav ul li a {
 
 section h2 {
     color:rgb(18, 18, 59);
+    font-size: 40px;
 }
 
 
@@ -82,7 +84,7 @@ footer {
 }
 
 footer h2 {
-    font-size: 45px;
+    font-size: 40px;
 }
 
 footer nav {
@@ -93,9 +95,10 @@ footer nav {
 footer ul li {
     display: inline;
     text-align: center;
+
 }
 
-footer nav ul li a {
+footer nav ul li {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 25px;
