@@ -52,7 +52,7 @@ header nav ul li a {
 /* End header styles */
 
 .hero {
-    background-image: url("../images/portforlio\ hero\ image.jpg");
+    background-image: url("../images/portforlio/ hero/ image.jpg");
     height: 300px;
     background-size: cover;
     background-position: center;
@@ -93,6 +93,7 @@ footer nav {
 footer ul li {
     display: inline;
     text-align: center;
+    font-size: 30px;
 }
 
 footer nav ul li a {
