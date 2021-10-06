@@ -16,7 +16,4 @@ https://j23click.github.io/my-portfolio/
 
 ## Contribution
 Made by Justin Click
-<<<<<<< HEAD
 
-=======
->>>>>>> 87fbf6687652cf9642aa0035b605b9caaebf46ea
