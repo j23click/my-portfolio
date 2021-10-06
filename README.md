@@ -10,7 +10,7 @@ A website that displays my skills and experience
 ## Website
 https://github.com/j23click/my-portfolio.git
 
-![image](https://user-images.githubusercontent.com/88456488/136154663-f55dc2fd-3050-4a78-aedb-98b81b6aba84.png)
+![image](https://user-images.githubusercontent.com/88456488/136155058-8c0f98b4-fb75-4b71-9499-cb3d5572f255.png)
 
 ## Contribution
 Made by Justin Click
