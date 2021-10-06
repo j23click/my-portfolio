@@ -8,7 +8,10 @@ A website that displays my skills and experience
 * CSS
 
 ## Website
-https://github.com/j23click/my-portfolio.git
+https://j23click.github.io/my-portfolio/
+
+
 
 ## Contribution
 Made by Justin Click
+
